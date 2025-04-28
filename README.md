@@ -1,6 +1,6 @@
-### Cálculo de porcentagens para descontos em produtos utilizando Python!
+### Pequenos exercícios que venho praticando em Python!
 
-<p>Pequeno desenvolvimento que fiz começando meus estudos na linguagem Python</p>
+<p>Escolhi estudar Python por sua sintaxe simples, versatilidade e ampla aplicação em áreas como automação, web e inteligência artificial. A linguagem é fácil de aprender, tem uma comunidade enorme e oferece inúmeras oportunidades no mercado de trabalho.</p>
 
  <div style="display: inline_block"><br>
 <!--   
