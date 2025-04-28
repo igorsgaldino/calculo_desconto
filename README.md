@@ -11,7 +11,7 @@
   
  ## 🛠️ Ferramentas utilizadas:
 
-![Python](https://img.shields.io/badge/-CSS-555?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-python-555?style=flat&logo=python)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
  
  ##
