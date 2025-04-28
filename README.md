@@ -1,4 +1,6 @@
-### Cálculo de Preços dos Produtos em Python!
+### Cálculo de porcentagens para descontos em produtos utilizando Python!
+
+<p>Pequeno desenvolvimento que fiz começando meus estudos na linguagem Python</p>
 
  <div style="display: inline_block"><br>
 <!--   
