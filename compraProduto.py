@@ -14,7 +14,6 @@ else:
         pagar = qtd * 3.6
         print(f'Você comprou {qtd} laranjas. O valor total a pagar: {pagar}')   
     else:
-
         if (produto == 3):
             pagar = qtd * 1.85
             print(f'Você comprou {qtd} maçãs. O valor total a pagar: {pagar}')
