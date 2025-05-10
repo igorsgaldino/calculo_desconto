@@ -1,4 +1,4 @@
-### Pequenos exercícios que venho praticando em Python!
+### Pequenos programas que venho desenvolvendo para praticar Python!
 
 <p>Escolhi estudar Python por sua sintaxe simples, versatilidade e ampla aplicação em áreas como automação, web e inteligência artificial. A linguagem é fácil de aprender, tem uma comunidade enorme e oferece inúmeras oportunidades no mercado de trabalho.</p>
 
